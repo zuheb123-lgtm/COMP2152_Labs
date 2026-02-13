@@ -1,10 +1,14 @@
+# Lab Week 4 - submitted on lab_week4 branch
+
 # Lab 04: Loops and Functions Practice
-# Student Name: [Martins Madubuchi]
+# Student Name: Zuheb Mohamud
 # Date: [06/02/2026]
 
-# ============================================
+
+
+
 # Question 1: Robot Return to Origin
-# ============================================
+
 
 def robot_returns_to_origin(moves):
     # Initialize starting position
@@ -30,9 +34,9 @@ for moves in test_moves:
     print("Moves '" + moves + "': Returns to origin? " + str(result))
 # Test cases for Q1...
 
-# ============================================
+
 # Question 2: Two Sum
-# ============================================
+
 
 # Part A: Brute Force with Nested Loops
 def two_sum_brute_force(numbers, target):
@@ -78,9 +82,9 @@ for numbers, target in test_cases:
     print()
 # Test cases for Q2...
 
-# ============================================
+
 # Question 3: Shuffle the Array
-# ============================================
+
 
 def shuffle_array(nums, n):
     # Step 1: Split into two halves using slicing
@@ -120,9 +124,9 @@ for nums, n in test_cases:
 
 # Test cases for Q3...
 
-# ============================================
+
 # Question 4: First Unique Character
-# ============================================
+
 
   # Helper function: Count all characters in a string
 def count_characters(s):
@@ -165,4 +169,3 @@ for s in test_strings:
     print("  Character counts: " + str(counts))
     print()
 
-# Test cases for Q4...
