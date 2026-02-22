@@ -1,0 +1,8 @@
+2026-02-22 16:04:25,ping,1.1.1.1,5,Success
+2026-02-22 16:05:10,nslookup,georgebrown.ca,Not found,Failed
+2026-02-22 16:10:08,nslookup,georgebrown.ca,Not found,Failed
+2026-02-22 16:11:44,ipconfig,all,00-FF-94-22-15-65 / 10.2.40.182,Captured
+2026-02-22 16:19:57,nslookup,georgebrown.ca,Not found,Failed
+2026-02-22 16:20:46,ping,1.1.1.1,5,Success
+2026-02-22 16:21:01,nslookup,georgebrown.ca,198.96.86.176,Success
+2026-02-22 16:21:31,ipconfig,all,00-FF-94-22-15-65 / 10.2.40.182,Captured
