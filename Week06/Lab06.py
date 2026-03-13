@@ -1,7 +1,7 @@
 # ============================================================
 #  WEEK 06 LAB: NETWORK DIAGNOSTIC LOGGER
 #  COMP2152 — Windows Version
-# Zuheb Mohamud 
+#Affan Telek
 # ============================================================
 #
 #  This program runs network commands (ping, nslookup, ipconfig),
