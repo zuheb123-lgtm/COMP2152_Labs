@@ -1,6 +1,6 @@
 # ============================================================
 #  WEEK 10 LAB — Q3: SECURITY AUDIT LOG + UNIT TESTS
-#  COMP2152 — Maziar Sojoudian
+#  COMP2152 — Zuheb Mohamud
 # ============================================================
 
 import sqlite3

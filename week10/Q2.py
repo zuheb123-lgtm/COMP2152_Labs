@@ -1,6 +1,6 @@
 # ============================================================
 #  WEEK 10 LAB — Q2: LOGIN ATTEMPT TRACKER
-#  COMP2152 — Maziar Sojoudian
+#  COMP2152 — Zuheb Mohamud
 # ============================================================
 
 import sqlite3
