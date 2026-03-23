@@ -1,6 +1,6 @@
 ============================================================
 #  WEEK 09 LAB — Q3: UNIT TESTING
-#  COMP2152 — [Martins Madubuchi]
+#  COMP2152 — Zuheb Mohamud
 # ============================================================
 
 import unittest

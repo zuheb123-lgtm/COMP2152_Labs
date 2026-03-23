@@ -1,6 +1,6 @@
 ============================================================
 WEEK 09 LAB — Q1: SYSTEM INFORMATION REPORTER
-COMP2152 — [Martins Madubuchi]
+COMP2152 — ZUheb Mohamud
 ============================================================
 import os
 import sys

@@ -1,6 +1,6 @@
 ============================================================
 WEEK 09 LAB — Q2: SEQUENTIAL vs THREADED EXECUTION
-COMP2152 — [Martins Madubuchi]
+COMP2152 — Zuheb Mohamud
 ============================================================
 import time
 import threading
